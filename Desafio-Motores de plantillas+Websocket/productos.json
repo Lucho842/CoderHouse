@@ -1,0 +1,57 @@
+[
+  {
+    "title": "ZAPATILLAS TRAINING REEBOK NANO X3 NG",
+    "description": "Conoce Nano X3 con el nuevo sistema Lift and Run Chassis",
+    "price": 66689,
+    "thumbnail": "https://showsport.vtexassets.com/arquivos/ids/799875-1200-auto?v=638251981493000000&width=1200&height=auto&aspect=true",
+    "codigo": "12345",
+    "stock": 5,
+    "id": "1",
+    "category": "Zapatillas",
+    "status": "true"
+  },
+  {
+    "title": "SHORT MODA ADIDAS ESSENTIALS CHELSEA NG HOMBRE",
+    "description": "Su diseño minimalista los hace versátiles, lo que significa que podés combinarlos con cualquier prenda de tu armario. ",
+    "price": 2998,
+    "thumbnail": "https://showsport.vtexassets.com/arquivos/ids/799804-1200-auto?v=638250249060730000&width=1200&height=auto&aspect=true",
+    "codigo": "36479",
+    "stock": 10,
+    "id": "2",
+    "category": "Ropa hombre",
+    "status": "true"
+  },
+  {
+    "title": "MEDIAS TRAINING ADIDAS INVISIBLES BN",
+    "description": "Estas medias invisibles de adidas son perfectas para lucir como si no tuvieras nada puesto debajo de tus zapatillas.",
+    "price": 1058,
+    "thumbnail": "https://showsport.vtexassets.com/arquivos/ids/799799-1200-auto?v=638250248645900000&width=1200&height=auto&aspect=true",
+    "codigo": "47963",
+    "stock": "35",
+    "id": "3",
+    "category": "Medias",
+    "status": "true"
+  },
+  {
+    "title": "ZAPATILLAS TENIS ADIDAS GAMECOURT NG HOMBRE",
+    "description": "Mantené la confianza en cada set y partido. El exterior de malla ligera y el talón acolchado hacen de estas zapatillas adidas Gamecourt 2.0 las compañeras perfectas ",
+    "price": 7496,
+    "thumbnail": "https://showsport.vtexassets.com/arquivos/ids/799795-1200-auto?v=638250248339870000&width=1200&height=auto&aspect=true",
+    "codigo": "94782",
+    "stock": 15,
+    "id": "4",
+    "category": "Zapatillas",
+    "status": "true"
+  },
+  {
+    "title": "BUZO MODA ADIDAS ESSENTIALS BIG LOGO NG HOMBRE",
+    "description": "incluyen el dobladillo y los puños acanalados y el infaltable bolsillo canguro.",
+    "price": 6343,
+    "thumbnail": "https://showsport.vtexassets.com/arquivos/ids/797830-1200-auto?v=638209760645200000&width=1200&height=auto&aspect=true",
+    "codigo": "73697",
+    "stock": 8,
+    "id": "5",
+    "category": "Buzo hombre",
+    "status": "true"
+  }
+]
